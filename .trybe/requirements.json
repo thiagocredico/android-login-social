@@ -1,0 +1,84 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "test_req_1_crie_a_estrutura_inicial_da_tela_com_a_logo_da_rede_social",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_2_crie_o_campo_de_email",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_3_crie_o_campo_de_senha",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_4_crie_o_botao_de_entrar",
+      "enabled": true,
+      "identifier": null,
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_5_crie_o_botao_de_recuperar_senha",
+      "enabled": true,
+      "identifier": null,
+      "order": 5,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_6_crie_o_botao_de_cadastro",
+      "enabled": true,
+      "identifier": null,
+      "order": 6,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_7_implemente_a_regra_de_habilitacao_do_botao_entrar",
+      "enabled": true,
+      "identifier": null,
+      "order": 7,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_8_implemente_a_validacao_do_campo_de_email",
+      "enabled": true,
+      "identifier": null,
+      "order": 8,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_9_implemente_a_validacao_do_campo_de_senha",
+      "enabled": true,
+      "identifier": null,
+      "order": 9,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_10_implemente_uma_mensagem_de_sucesso_no_login",
+      "enabled": true,
+      "identifier": null,
+      "order": 10,
+      "skill_ids": []
+    }
+  ]
+}
